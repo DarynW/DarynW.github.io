@@ -15,7 +15,7 @@
   }
   body {
     /* Adds a background color to my site, or at least the content between the <body> tags */
-    background-color: #FF9933;
+    background-color: #ffc0cb;
     /* If you want to use a different font, make sure you update it here! */
     font-family: 'Monaco', monospace;
     /* Change the pixel size for your font */
