@@ -1,7 +1,4 @@
 <style>
-  p {
-   border: 2px solid powderblue;
-  }
   link {
     /* Changes the color of the link URLs on your site */
     color: #0099FF;
@@ -17,6 +14,7 @@
     background-color: #0099FF;
   }
   body {
+    border: 2px solid powderblue;
     /* Adds a background color to my site, or at least the content between the <body> tags */
     background-color: #ffc0cb;
     /* If you want to use a different font, make sure you update it here! */
